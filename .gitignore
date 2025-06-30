@@ -1,0 +1,22 @@
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+
+# Environment variables
+.env
+
+# Data files (optional)
+data/
+
+# Logs
+*.log
+
+# System files
+.DS_Store
+
+# VS Code settings
+.vscode/
