@@ -87,7 +87,7 @@ Features
 |--------------------|-------------|
 | `RAG Pipeline`     | Retrieves and enhances questions using vector store and Gemini |
 | `Question Generation` | Generates 3 questions per phase (Introductory, Basics, Problem Solving) |
-| `File Upload`      | Accepts JSONL resume files via API |
+| `File Upload`      | Accepts resume files via API |
 ```
 
 
